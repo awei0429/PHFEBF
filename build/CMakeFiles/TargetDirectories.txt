@@ -1,0 +1,3 @@
+/home/wei/FHEW sample/build/CMakeFiles/test.dir
+/home/wei/FHEW sample/build/CMakeFiles/edit_cache.dir
+/home/wei/FHEW sample/build/CMakeFiles/rebuild_cache.dir
